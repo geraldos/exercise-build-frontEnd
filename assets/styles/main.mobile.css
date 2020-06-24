@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css?family=Quicksand:400,700&display=swap");
+
+* {
+    font-family: "Quicksand", sans-serif;
+    font-size: medium;
+}
+
+.interest {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+
+.item2 {
+    margin-top: 20px;
+}
+
+.banner {
+    background: #28687c;
+}
+
+.content {
+    padding: 120px 0;
+    height: 150vh;
+}
+
+.content1 {
+    padding: 120px 0;
+    height: 450vh;
+    background-color: #28687c;
+}
+
+.content2 {
+    padding: 120px 0;
+    height: 100vh;
+    background-color: #28687c;
+    color: white;
+}
+
+/*Profile Card 5*/
+.profile-card-5 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    width: 100%;
+    margin-left: 20px;
+}
+
+.profile-card-5 .card-img-block {
+    width: 91%;
+    margin: 0 auto;
+    position: relative;
+    top: -20px;
+
+}
+
+.profile-card-5 .card-img-block img {
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.63);
+}
+
+.profile-card-5 h5 {
+    color: #2f5879;
+    font-weight: 600;
+}
+
+.profile-card-5 p {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.profile-card-5 .btn-primary {
+    background-color: #4E5E30;
+    border-color: #4E5E30;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-position {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+    flex-direction: column;
+}
+
+.card {
+    margin-top: 50px;
+}
+
+.hobbies {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.hobbies1 {
+    margin-top: 50px;
+}
+
+.hobbies2 {
+    margin-top: 50px;
+}
+
+.icon-hobbies {
+    margin-left: 40px;
+}
