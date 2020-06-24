@@ -265,6 +265,12 @@
      color: white;
  }
 
+ .content3 {
+     padding: 120px;
+     height: 100vh;
+     background-size: cover;
+ }
+
  .texts-hobbies1 {
      margin-top: 150px;
  }

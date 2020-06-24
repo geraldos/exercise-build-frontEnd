@@ -38,6 +38,12 @@
     color: white;
 }
 
+.content3 {
+    padding: 120px;
+    height: 150vh;
+    background-size: cover;
+}
+
 /*Profile Card 5*/
 .profile-card-5 {
     display: flex;
